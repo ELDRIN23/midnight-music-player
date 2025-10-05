@@ -60,7 +60,7 @@ function App() {
     <>
     <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-b from-[#0a0e17] to-[#1e293b] text-white p-4">
       <h1 className="text-3xl md:text-4xl font-bold mb-6 text-primary text-center">
-        Midnight Music
+        Midnight23 Music
       </h1>
 
       {/* Album Card */}
